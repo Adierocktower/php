@@ -1,5 +1,5 @@
 <?php
 
-echo "Olá mundo 123"
- echo "olá avadro"
+echo "Olá mundo 123";
+ echo "olá avadro";
 ?>
